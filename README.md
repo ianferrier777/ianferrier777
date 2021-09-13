@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thing
+This is a thing. I'm developing this thing. Soon this thing will be created. For now enjoy the amount of times I say "thing". Yes, I'm committing this.
