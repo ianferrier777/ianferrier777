@@ -4,7 +4,6 @@
 😄 Pronouns: He/Him/His
 
 <br>
-<br>
 
 <h1>Technologies</h1>
 
