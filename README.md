@@ -1,3 +1,5 @@
+<h1>Ian Ferrier</h1>
+
 🔭 I’m currently working on job search, assessments and challenges, mock interviews, data structures and algorithms, and dad life.<br>
 🌱 I’m currently learning: Redux and TypeScript, Erlang and Cowboy, Ruby on Rails, Ember.js.<br>
 👯 I’m looking to collaborate on any projects! Go ahead and ask!<br>
@@ -5,7 +7,7 @@
 
 <br>
 
-<h1>Technologies</h1>
+<h2>Technologies</h2>
 
 <br>
 
@@ -30,7 +32,7 @@
 <br>
 <br>
 
-<h1>About me</h1>
+<h2>About me</h2>
 
 <br>
 
@@ -56,9 +58,8 @@
 </p>
 
 <br>
-<br>
 
-<h1>Github Statistics</h1>
+<h2>Github Statistics</h2>
 
 <br>
 
