@@ -39,24 +39,33 @@
 <p>
   Full-Stack Software Engineer / Developer
   <br>
+  <br>
   JavaScript, React, JQuery, NodeJS, Express, TypeScript, Python, HTML, CSS
+  <br>
   <br>
   Front-End, Back-End, Full-Stack experience developing, testing, and deploying web applications.
   <br>
+  <br>
   Goofball dad looking to be the best version of myself every day because it's the only variable I can control.
+  <br>
   <br>
   Front-End: JavaScript (ES5 and ES6+) | React | JQuery | Ember.js | HTML | CSS
   <br>
+  <br>
   Back-End: NodeJS | Express | NoSQL | MongoDB | Mongoose | RDBMS | PostgreSQL | MySQL | RESTful APIs
+  <br>
   <br>
   Testing/Deployment: AWS (EC2) | Heroku | Docker | NGINX | Loader.io | K6 | Jest/Enzyme | Mocha/Chai
   <br>
-  Development: Bash | Linux | Ubuntu | Vim | Git | Github | NPM | Trello | Agile Methodologies | Miro | Lucid | TDD | Webpack | Babel | TypeScript | Python
+  <br>
+  Development/Misc: Bash | Linux | Ubuntu | Vim | Git | Github | NPM | Trello | Agile Methodologies | Miro | Lucid | TDD | Webpack | Babel | TypeScript | Python
+  <br>
   <br>
   I'm a full-stack engineer with experience working in several remote, agile team environments, building test suites, and discovering new technologies on a 
   weekly basis. I'm looking forward to making a profitable and positive impact on your software engineering team.
 </p>
 
+<br>
 <br>
 
 <h2>Github Statistics</h2>
