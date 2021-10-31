@@ -40,7 +40,7 @@
   Full-Stack Software Engineer / Developer
   <br>
   <br>
-  JavaScript, React, JQuery, NodeJS, Express, TypeScript, Python, HTML, CSS
+  JavaScript, React, Vue, JQuery, NodeJS, Express, TypeScript, Python, HTML, CSS
   <br>
   <br>
   Front-End, Back-End, Full-Stack experience developing, testing, and deploying web applications.
