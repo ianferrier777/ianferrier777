@@ -1,7 +1,7 @@
 <h1>Ian Ferrier</h1>
 
-🔭 I’m currently working on job search, assessments and challenges, mock interviews, data structures and algorithms, and dad life.<br>
-🌱 I’m currently learning: Redux and TypeScript, Erlang and Cowboy, Ruby on Rails, Ember.js.<br>
+🔭 I’m currently working at Pax8 as a Junior Frontend Developer.<br>
+🌱 I’m currently learning: Vue, Vuex, Vue Router, Vue i18n, and how to be a champion with Git.<br>
 👯 I’m looking to collaborate on any projects! Go ahead and ask!<br>
 😄 Pronouns: He/Him/His
 
