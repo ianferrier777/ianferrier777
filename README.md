@@ -2,8 +2,9 @@
 
 🔭 I’m currently working at Pax8 as a Junior Frontend Developer.<br>
 🌱 I’m currently learning: Vue, Vuex, Vue Router, Vue i18n, and how to be a champion with Git.<br>
-👯 I’m looking to collaborate on any projects! Go ahead and ask!<br>
-😄 Pronouns: He/Him/His
+👯 I’m looking to solve your problems and deliver adequate software solutions in a timely manner<br>
+😄 Pronouns: He/Him/His<br>
+💪 Past life: 🎭 Live Event Technician 🎪, 🎤 Live Audio Engineer 📢, 🔌 Construction Electrician 💡 
 
 <br>
 
