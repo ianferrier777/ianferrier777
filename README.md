@@ -59,7 +59,7 @@
   Testing/Deployment: AWS (EC2) | Heroku | Docker | Kubernetes | Helm | Github Actions | NGINX | Loader.io | K6 | Jest/Enzyme | Mocha/Chai
   <br>
   <br>
-  Development/Misc: Bash | Linux | Ubuntu | Vim | Git | Github | NPM | Trello | Agile Methodologies | Miro | Lucid | TDD | Webpack | Babel | TypeScript | Python
+  Development/Misc: Bash | Linux | Ubuntu | Vim | Git | Github | NPM | Trello | Agile Methodologies | Miro | Lucid | TDD | Webpack | Babel | TypeScript | Python | Java
   <br>
   <br>
   I'm a full-stack engineer with experience working in several remote, agile team environments, building test suites, and discovering new technologie. I'm looking forward to making a profitable and positive impact on your software engineering team.
