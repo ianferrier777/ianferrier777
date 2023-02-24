@@ -50,20 +50,19 @@
   Goofball dad looking to be the best version of myself every day because it's the only variable I can control.
   <br>
   <br>
-  Front-End: JavaScript (ES5 and ES6+) | React | JQuery | Ember.js | HTML | CSS
+  Front-End: JavaScript (ES5 and ES6+) | Vue | React | JQuery | Ember.js | HTML | CSS
   <br>
   <br>
   Back-End: NodeJS | Express | NoSQL | MongoDB | Mongoose | RDBMS | PostgreSQL | MySQL | RESTful APIs
   <br>
   <br>
-  Testing/Deployment: AWS (EC2) | Heroku | Docker | NGINX | Loader.io | K6 | Jest/Enzyme | Mocha/Chai
+  Testing/Deployment: AWS (EC2) | Heroku | Docker | Kubernetes | Helm | Github Actions | NGINX | Loader.io | K6 | Jest/Enzyme | Mocha/Chai
   <br>
   <br>
   Development/Misc: Bash | Linux | Ubuntu | Vim | Git | Github | NPM | Trello | Agile Methodologies | Miro | Lucid | TDD | Webpack | Babel | TypeScript | Python
   <br>
   <br>
-  I'm a full-stack engineer with experience working in several remote, agile team environments, building test suites, and discovering new technologies on a 
-  weekly basis. I'm looking forward to making a profitable and positive impact on your software engineering team.
+  I'm a full-stack engineer with experience working in several remote, agile team environments, building test suites, and discovering new technologie. I'm looking forward to making a profitable and positive impact on your software engineering team.
 </p>
 
 <br>
